@@ -3,7 +3,7 @@
 # author: Gaurav Bhatti
 #
 # input: data/sample_annotation/cfrna387/cfRNA_387_Transcriptomics_ano.csv      
-#        data/sample_annotation/cfrna387/ano_cfrna_cca.csv
+#        data/sample_annotation/crnadream/DREAM_Transcriptomics_ano.csv
 #       
 # output:data/sample_annotation/cfrna387/ano_cfrna_cca.csv
 #        data/sample_annotation/crnadream/ano_crna_dream.csv
